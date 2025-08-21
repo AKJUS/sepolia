@@ -24,7 +24,7 @@
     "accountStartNonce": "0x0",
     "maximumExtraDataSize": "0x20",
     "minGasLimit": "0x1388",
-    "networkID": "0xAA36A7",
+    "networkID": "0xaa36a7",
     "forkBlock": "0x0",
     "maxCodeSize": "0x6000",
     "maxCodeSizeTransition": "0x0",
@@ -55,39 +55,39 @@
     "eip3198Transition": "0x0",
     "eip3529Transition": "0x0",
     "eip3541Transition": "0x0",
-    "terminalTotalDifficulty": "0x3C6568F12E8000",
-    "mergeForkIdTransition": "0x1A7ACB",
-    "eip4895TransitionTimestamp": "0x63FD7D60",
-    "eip3855TransitionTimestamp": "0x63FD7D60",
-    "eip3651TransitionTimestamp": "0x63FD7D60",
-    "eip3860TransitionTimestamp": "0x63FD7D60",
-    "eip1153TransitionTimestamp": "0x65B97D60",
-    "eip4788TransitionTimestamp": "0x65B97D60",
-    "eip4844TransitionTimestamp": "0x65B97D60",
-    "eip5656TransitionTimestamp": "0x65B97D60",
-    "eip6780TransitionTimestamp": "0x65B97D60",
+    "terminalTotalDifficulty": "0x36568f12e8000",
+    "mergeForkIdTransition": "0x1a7acb",
+    "eip4895TransitionTimestamp": "0x63fd7d60",
+    "eip3855TransitionTimestamp": "0x63fd760",
+    "eip3651TransitionTimestamp": "0x63fd760",
+    "eip3860TransitionTimestamp": "0x63fd760",
+    "eip1153TransitionTimestamp": "0x65b9760",
+    "eip4788TransitionTimestamp": "0x65b9760",
+    "eip4844TransitionTimestamp": "0x65b9760",
+    "eip5656TransitionTimestamp": "0x65b9760",
+    "eip6780TransitionTimestamp": "0x65b9760",
     "blobSchedule": [
       {
         "timestamp": "0x0",
         "target": 3,
         "max": 6,
-        "baseFeeUpdateFraction": "0x32F0ED"
+        "baseFeeUpdateFraction": "0x32f0ed"
       },
       {
-        "timestamp": "0x67C7FD60",
+        "timestamp": "0x67c7fd60",
         "target": 6,
         "max": 9,
-        "baseFeeUpdateFraction": "0x4C6964"
+        "baseFeeUpdateFraction": "0x4c6964"
       }
     ],
     "depositContractAddress": "0x7f02C3E3c98b133055B8B348B2Ac625669Ed295D",
-    "eip2537TransitionTimestamp": "0x67C7FD60",
-    "eip2935TransitionTimestamp": "0x67C7FD60",
-    "eip6110TransitionTimestamp": "0x67C7FD60",
-    "eip7002TransitionTimestamp": "0x67C7FD60",
-    "eip7251TransitionTimestamp": "0x67C7FD60",
-    "eip7623TransitionTimestamp": "0x67C7FD60",
-    "eip7702TransitionTimestamp": "0x67C7FD60"
+    "eip2537TransitionTimestamp": "0x67c7fd60",
+    "eip2935TransitionTimestamp": "0x67c7fd60",
+    "eip6110TransitionTimestamp": "0x67c7fd60",
+    "eip7002TransitionTimestamp": "0x67c7fd60",
+    "eip7251TransitionTimestamp": "0x67c7fd60",
+    "eip7623TransitionTimestamp": "0x67c7fd60",
+    "eip7702TransitionTimestamp": "0x67c7fd60"
   },
   "genesis": {
     "seal": {
